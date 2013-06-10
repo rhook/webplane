@@ -6,17 +6,17 @@ api = 2
 projects[] = drupal
 
 ;Contrib modules
-projects[admin_menu]
-projects[backup_migrate]
-projects[calendar]
-projects[ctools]
-projects[date]
-projects[entity]
-projects[entityreference]
-projects[panels]
-projects[pathauto]
-projects[token]
-projects[views]
+projects[admin_menu][version] = 3.0-rc4
+projects[backup_migrate] = 2.7
+projects[calendar] = 3.4
+projects[ctools] = 1.3
+projects[date] = 2.6
+projects[entity] = 1.1
+projects[entityreference] = 1.0
+projects[panels] = 3.3
+projects[pathauto] = 1.2
+projects[token] = 1.5
+projects[views] = 3.7
 
 ;Profile
 projects[webplane][type] = "profile"
