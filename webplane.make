@@ -3,10 +3,20 @@ core = 7.x
 api = 2
 
 ;Drupal core
-projects[drupal][version] = 7.22
+projects[drupal]
 
 ;Contrib modules
-projects[admin_menu][version] = 3.0-rc4
+projects[admin_menu]
+projects[backup_migrate]
+projects[calendar]
+projects[ctools]
+projects[date]
+projects[entity]
+projects[entityreference]
+projects[panels]
+projects[pathauto]
+projects[token]
+projects[views]
 
 ;Profile
 projects[webplane][type] = "profile"
