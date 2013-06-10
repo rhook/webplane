@@ -3,7 +3,7 @@ core = 7.x
 api = 2
 
 ;Drupal core
-projects[drupal]
+projects[] = drupal
 
 ;Contrib modules
 projects[admin_menu]
