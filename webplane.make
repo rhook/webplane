@@ -15,8 +15,12 @@ projects[entity] = 1.1
 projects[entityreference] = 1.0
 projects[panels] = 3.3
 projects[pathauto] = 1.2
+projects[rules] = 2.3
 projects[token] = 1.5
 projects[views] = 3.7
+projects[webform] = 3.19
+projects[webform_rules] = 1.6
+projects[workflow] = 1.1
 
 ;Profile
 projects[webplane][type] = "profile"
