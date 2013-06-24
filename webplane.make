@@ -11,6 +11,7 @@ projects[backup_migrate] = 2.7
 projects[calendar] = 3.4
 projects[ctools] = 1.3
 projects[date] = 2.6
+projects[devel] = 1.3
 projects[entity] = 1.1
 projects[entityreference] = 1.0
 projects[panels] = 3.3
