@@ -26,4 +26,4 @@ projects[workflow] = 1.1
 ;Profile
 projects[webplane][type] = "profile"
 projects[webplane][download][type] = "git"
-projects[webplane][download][url] = "git://github.com/rhook/webplane_profile.git"
+projects[webplane][download][url] = "https://github.com/rhook/webplane_profile.git"
